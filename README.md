@@ -4,7 +4,7 @@
 A simple system reconnaissance tool designed for educational purposes.
 
 ## 📝 Description
-This script is a basic Bash-based tool that mimics the initial information-gathering techniques used by advanced persistent threat (APT) groups like the **Lazarus Group**. It collects essential system data and saves it to a log file for analysis.
+This script is a basic Bash-based tool that mimics the initial information-gathering techniques used by advanced persistent threat (APT) groups like the **______ Group**. It collects essential system data and saves it to a log file for analysis.
 
 ## 🚀 Features
 * Identifies the current **User** and **Hostname**.
