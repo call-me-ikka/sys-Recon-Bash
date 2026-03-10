@@ -22,3 +22,7 @@ This script is a basic Bash-based tool that mimics the initial information-gathe
 4. Run the script:
     ```bash
    ./recon_tool.sh 
+
+
+⚠️ Disclaimer
+​FOR EDUCATIONAL PURPOSES ONLY. This tool is created to help cybersecurity students understand system reconnaissance. Do not use this for any illegal activities or on systems you do not own.
